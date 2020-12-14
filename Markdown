@@ -1,0 +1,25 @@
+---
+title: "Importancia de los tipos y sus estadisticas en el entorno competitivo pokemon (Monotype)"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduccion
+
+Pocket monsters, mas conocido como pokemon es un juego en el cual la principal mecanica son las batallas de pokemon. Las batallas pertenecen al estilo RPG o por turnos. Dada la popularidad de este juego se empezaron a realizar torneos de manera profecional de esta forma el entrenamiento y las batallas empezaron a tomar un tono mas serio dando lugar al analisis de las estadisticas propias de cada criatura, para asi encontrar dicho pokemon con las caracteristicas ideales para enfrentar una batalla de este nivel.
+
+En el entorno competitivo existe la categoria monotype, que intentan dominar en especifico a un solo tipo de pokemon, asi el jugador queda restringido a usar un solo tipo de pokemon por equipo (6 pokemon por equipo) que tenga la capacidad de ganar la batalla.
+
+Dentro de la mecanica del juego existe la comunmente llamada (italica) tabla de tipos, en la que se encuentra la efectividad de un ataque de un tipo frente a otro
+
+![Tabla de tipos](https://media.redadn.es/imagenes/pokemon-espada-nintendo-switch_332218.jpg){width=750px} 
+
+
+
+## Batallas
+
+
+
